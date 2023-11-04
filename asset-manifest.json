@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-split/static/css/main.a4c28843.css",
+    "main.js": "/react-split/static/js/main.c67cdac4.js",
+    "index.html": "/react-split/index.html",
+    "main.a4c28843.css.map": "/react-split/static/css/main.a4c28843.css.map",
+    "main.c67cdac4.js.map": "/react-split/static/js/main.c67cdac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.c67cdac4.js"
+  ]
+}
